@@ -1,0 +1,9 @@
+C:\LABS\Семестр 2\OOPro\OOP_Course_Work\OOP_Course_Work\bin\Debug\OOP_Course_Work.exe.config
+C:\LABS\Семестр 2\OOPro\OOP_Course_Work\OOP_Course_Work\bin\Debug\OOP_Course_Work.exe
+C:\LABS\Семестр 2\OOPro\OOP_Course_Work\OOP_Course_Work\bin\Debug\OOP_Course_Work.pdb
+C:\LABS\Семестр 2\OOPro\OOP_Course_Work\OOP_Course_Work\obj\Debug\OOP_Course_Work.csprojResolveAssemblyReference.cache
+C:\LABS\Семестр 2\OOPro\OOP_Course_Work\OOP_Course_Work\obj\Debug\OOP_Course_Work.Form1.resources
+C:\LABS\Семестр 2\OOPro\OOP_Course_Work\OOP_Course_Work\obj\Debug\OOP_Course_Work.Properties.Resources.resources
+C:\LABS\Семестр 2\OOPro\OOP_Course_Work\OOP_Course_Work\obj\Debug\OOP_Course_Work.csproj.GenerateResource.Cache
+C:\LABS\Семестр 2\OOPro\OOP_Course_Work\OOP_Course_Work\obj\Debug\OOP_Course_Work.exe
+C:\LABS\Семестр 2\OOPro\OOP_Course_Work\OOP_Course_Work\obj\Debug\OOP_Course_Work.pdb
